@@ -19,3 +19,9 @@ The aim of this project was to perform and present a data science project from a
 
 A breif overview of the various techniques used in this project have been included in the ipnyb file. Latex has been used for mathematical notations where needed. Due to the academic nature of the project, the graphs too have been properly designed and labeled. Due to the categorical nature of the attributes, decided to focus mainly on decision tree based algorithms. The models have been carefully tested using various techniques described below to prevent any overfit or underfit. 
 
+## Results
+ After trying various regression methods including Linear Regression, Decision trees, CAT Boosting, etc. Xgboost gave us the best result with training accuracy of **99.67%** and testing accuracy of **96.9%**.
+ <p align="center">
+  <img src="blob/images/result.png"/>
+</p>
+
